@@ -1,3 +1,6 @@
+os
+xml
 streamlit
-google-generativeai
 python-dotenv
+scikit-learn
+nltk
